@@ -1,0 +1,5 @@
+# Initial prompt for creating the program for image aggregation:
+Using Python, create a program that will fuse all the images of a folder into one bigger image with the following constraints:
+ - Every image located in the "data" folder must be used. (this folder must be an editable constant variable).
+ - The order of the images must also be a constant variable (Alphabetical, Creation, Last edit, etc... this order can also be reversed)
+ - The direction (vertical or horizontal), background color (#RRGGBB[AA]), image alignments (Start / Center / End) and output image path, must all be configurable using constant variables.
